@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Webshop basada en Restful API para proyecto final de Hack A Boss
+> Webshop basada en Restful API para proyecto final de HACK A BOSS, los usuarios puedes comprar y vender artículos entre ellos.
 
 ## Install
 
